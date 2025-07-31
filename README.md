@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C4CTUSDev
-- 👀 I’m interested in ... Game Developement, Web Developement
-- 🌱 I’m currently learning C# and Game Developement with Unity engine and Pygame
+- 👀 I’m interested in ... Game Developement, Web Developement, And everything regarding games!
+- 🌱 I’m currently learning C# and Game Developement with Unity engine and Pygame + The Godot Engine
 - 💞️ I’m looking to collaborate on ... nothing for the moment
 - 📫 How to reach me ...
 
